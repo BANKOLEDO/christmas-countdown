@@ -1,0 +1,326 @@
+[
+  {
+    "day": 1,
+    "type": "kindness",
+    "title": "Start with Gratitude",
+    "message": "Begin the countdown by writing down three things you're thankful for this season."
+  },
+  {
+    "day": 2,
+    "type": "activity",
+    "title": "Plan Your Season",
+    "message": "Make a list of people you'd like to connect with during the holidays."
+  },
+  {
+    "day": 3,
+    "type": "food",
+    "title": "Comfort Food Day",
+    "message": "Enjoy your favorite comfort food - the holidays are about warmth and joy."
+  },
+  {
+    "day": 4,
+    "type": "music",
+    "title": "Create the Vibe",
+    "message": "Start a holiday playlist with songs that make you feel warm and joyful."
+  },
+  {
+    "day": 5,
+    "type": "fact",
+    "title": "Global Traditions",
+    "message": "In Ethiopia, Christmas is celebrated on January 7th with colorful ceremonies."
+  },
+  {
+    "day": 6,
+    "type": "kindness",
+    "title": "Small Gesture",
+    "message": "Compliment three people genuinely today - spread positive energy."
+  },
+  {
+    "day": 7,
+    "type": "activity",
+    "title": "Digital Cleanup",
+    "message": "Clear space on your phone for holiday photos and memories."
+  },
+  {
+    "day": 8,
+    "type": "food",
+    "title": "Spice It Up",
+    "message": "Add cinnamon or nutmeg to your coffee or tea for a festive touch."
+  },
+  {
+    "day": 9,
+    "type": "music",
+    "title": "Local Sounds",
+    "message": "Discover holiday music from a culture different from your own."
+  },
+  {
+    "day": 10,
+    "type": "fact",
+    "title": "Winter Celebration",
+    "message": "The winter solstice has been celebrated for thousands of years across cultures."
+  },
+  {
+    "day": 11,
+    "type": "kindness",
+    "title": "Uplift Someone",
+    "message": "Send an encouraging message to someone who might be having a tough time."
+  },
+  {
+    "day": 12,
+    "type": "activity",
+    "title": "Memory Lane",
+    "message": "Look at old holiday photos and cherish beautiful memories."
+  },
+  {
+    "day": 13,
+    "type": "food",
+    "title": "Sweet Beginning",
+    "message": "Try making a simple sweet treat - even store-bought cookies with personal touch."
+  },
+  {
+    "day": 14,
+    "type": "music",
+    "title": "Sing Along",
+    "message": "Play your favorite song and sing along - no audience needed!"
+  },
+  {
+    "day": 15,
+    "type": "fact",
+    "title": "African Celebration",
+    "message": "In Ghana, Christmas is celebrated with church services and family gatherings."
+  },
+  {
+    "day": 16,
+    "type": "kindness",
+    "title": "Pay It Forward",
+    "message": "Do one unexpected kind act for a stranger or loved one today."
+  },
+  {
+    "day": 17,
+    "type": "activity",
+    "title": "Cozy Evening",
+    "message": "Spend an evening with a good book or movie - self-care is important."
+  },
+  {
+    "day": 18,
+    "type": "food",
+    "title": "Warm Drink",
+    "message": "Enjoy a warm beverage and take 10 minutes to just breathe and be present."
+  },
+  {
+    "day": 19,
+    "type": "music",
+    "title": "Dance Break",
+    "message": "Take a 5-minute dance break to your favorite upbeat song."
+  },
+  {
+    "day": 20,
+    "type": "fact",
+    "title": "Light Festival",
+    "message": "Hanukkah, Diwali, and Christmas all celebrate light during dark seasons."
+  },
+  {
+    "day": 21,
+    "type": "kindness",
+    "title": "Appreciation Note",
+    "message": "Write a short note appreciating someone who made a difference in your life."
+  },
+  {
+    "day": 22,
+    "type": "activity",
+    "title": "Nature Connection",
+    "message": "Take a walk outside and notice the seasonal changes around you."
+  },
+  {
+    "day": 23,
+    "type": "food",
+    "title": "Family Recipe",
+    "message": "Make or enjoy a dish that has special meaning in your family."
+  },
+  {
+    "day": 24,
+    "type": "music",
+    "title": "Instrumental Calm",
+    "message": "Listen to instrumental holiday music while you work or relax."
+  },
+  {
+    "day": 25,
+    "type": "fact",
+    "title": "Nigerian Christmas",
+    "message": "In Nigeria, Christmas means traveling home, new clothes, and big family meals."
+  },
+  {
+    "day": 26,
+    "type": "kindness",
+    "title": "Digital Smile",
+    "message": "Share a positive comment on someone's social media post."
+  },
+  {
+    "day": 27,
+    "type": "activity",
+    "title": "Declutter Space",
+    "message": "Tidy one small area of your home to create peaceful energy."
+  },
+  {
+    "day": 28,
+    "type": "food",
+    "title": "Colorful Meal",
+    "message": "Eat a meal with colorful fruits and vegetables - nourishment is celebration."
+  },
+  {
+    "day": 29,
+    "type": "music",
+    "title": "Childhood Favorite",
+    "message": "Listen to a song you loved as a child during the holidays."
+  },
+  {
+    "day": 30,
+    "type": "fact",
+    "title": "Brazilian Christmas",
+    "message": "In Brazil, Christmas falls during summer with fireworks and family dinners."
+  },
+  {
+    "day": 31,
+    "type": "kindness",
+    "title": "Silent Support",
+    "message": "Do something helpful for someone without telling them you did it."
+  },
+  {
+    "day": 32,
+    "type": "activity",
+    "title": "Future Planning",
+    "message": "Think of one holiday tradition you'd like to start or continue."
+  },
+  {
+    "day": 33,
+    "type": "food",
+    "title": "Share Recipes",
+    "message": "Exchange a simple recipe with a friend or family member."
+  },
+  {
+    "day": 34,
+    "type": "music",
+    "title": "Cultural Discovery",
+    "message": "Find holiday music from a country you've never visited."
+  },
+  {
+    "day": 35,
+    "type": "fact",
+    "title": "Japanese Christmas",
+    "message": "In Japan, KFC has become a popular Christmas Eve tradition since 1974."
+  },
+  {
+    "day": 36,
+    "type": "kindness",
+    "title": "Patient Listening",
+    "message": "Give someone your full attention when they're speaking today."
+  },
+  {
+    "day": 37,
+    "type": "activity",
+    "title": "Digital Detox",
+    "message": "Spend one hour without screens, enjoying real-world connections."
+  },
+  {
+    "day": 38,
+    "type": "food",
+    "title": "Breakfast Joy",
+    "message": "Make your breakfast special today with a little extra care."
+  },
+  {
+    "day": 39,
+    "type": "music",
+    "title": "Background Joy",
+    "message": "Play soft music in the background while doing household tasks."
+  },
+  {
+    "day": 40,
+    "type": "fact",
+    "title": "Ukrainian Tradition",
+    "message": "In Ukraine, spiders and webs on Christmas trees bring good luck."
+  },
+  {
+    "day": 41,
+    "type": "kindness",
+    "title": "Public Appreciation",
+    "message": "Thank someone who provides a service in your community."
+  },
+  {
+    "day": 42,
+    "type": "activity",
+    "title": "Evening Reflection",
+    "message": "Spend 5 minutes reflecting on the good things that happened today."
+  },
+  {
+    "day": 43,
+    "type": "food",
+    "title": "Hydration Celebration",
+    "message": "Drink plenty of water today - taking care of yourself is festive too!"
+  },
+  {
+    "day": 44,
+    "type": "music",
+    "title": "Share a Song",
+    "message": "Send a song you love to someone who might appreciate it."
+  },
+  {
+    "day": 45,
+    "type": "fact",
+    "title": "Australian Christmas",
+    "message": "In Australia, Christmas is often celebrated with beach barbecues and swimming."
+  },
+  {
+    "day": 46,
+    "type": "kindness",
+    "title": "Self-Compassion",
+    "message": "Be extra kind to yourself today - you deserve your own kindness too."
+  },
+  {
+    "day": 47,
+    "type": "activity",
+    "title": "Preparation Joy",
+    "message": "Enjoy the process of preparing for celebrations, not just the result."
+  },
+  {
+    "day": 48,
+    "type": "food",
+    "title": "Comfort Classics",
+    "message": "Enjoy a meal that always makes you feel comforted and happy."
+  },
+  {
+    "day": 49,
+    "type": "music",
+    "title": "Memory Music",
+    "message": "Listen to music that brings back happy holiday memories."
+  },
+  {
+    "day": 50,
+    "type": "fact",
+    "title": "Mexican Tradition",
+    "message": "In Mexico, Las Posadas reenacts Mary and Joseph's search for lodging."
+  },
+  {
+    "day": 51,
+    "type": "kindness",
+    "title": "Unexpected Help",
+    "message": "Offer to help someone with a task before they ask for assistance."
+  },
+  {
+    "day": 52,
+    "type": "activity",
+    "title": "Quiet Moment",
+    "message": "Find 10 minutes of complete quiet to just be with your thoughts."
+  },
+  {
+    "day": 53,
+    "type": "food",
+    "title": "Festive Finale",
+    "message": "Prepare or enjoy a special meal to celebrate the season's approach."
+  },
+  {
+    "day": 54,
+    "type": "music",
+    "title": "Christmas Eve Magic",
+    "message": "Listen to your favorite holiday music as you anticipate Christmas Day."
+  }
+]
