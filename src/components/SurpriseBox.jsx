@@ -11,8 +11,9 @@ export default function SurpriseBox() {
   const [isAnimating, setIsAnimating] = useState(false);
 
   useEffect(() => {
-    const countdownStart = new Date(Date.UTC(new Date().getFullYear(), 10, 2));
+
     const now = new Date();
+    const countdownStart = new Date(now.getFullYear(), 10, 2); // November 2nd (local time)
     
     if (now >= countdownStart) {
       const timeDiff = now - countdownStart;
@@ -53,8 +54,8 @@ export default function SurpriseBox() {
   };
 
   const getButtonContent = () => {
-    const countdownStart = new Date(Date.UTC(new Date().getFullYear(), 10, 2));
     const now = new Date();
+    const countdownStart = new Date(now.getFullYear(), 10, 2); // November 2nd (local time)
     
     if (now < countdownStart) {
       return {
