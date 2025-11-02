@@ -19,7 +19,7 @@ export default function SurpriseBox() {
       const day = Math.floor(timeDiff / (1000 * 60 * 60 * 24)) + 1;
       setCurrentDay(day);
       
-      if (day <= 54) {
+      if (day <= 53) {
         setCanReveal(true);
         const lastOpenedDay = localStorage.getItem('lastOpenedDay');
         
@@ -32,7 +32,7 @@ export default function SurpriseBox() {
   }, []);
 
   const revealSurprise = async () => {
-    if (currentDay <= 54 && !isAnimating) {
+    if (currentDay <= 53 && !isAnimating) {
       setIsAnimating(true);
       
       // Add a small delay for animation
@@ -65,7 +65,7 @@ export default function SurpriseBox() {
       };
     }
     
-    if (currentDay > 54) {
+    if (currentDay > 53) {
       return {
         text: "Christmas Countdown Complete!",
         icon: <FaCheck className="w-5 h-5" />,

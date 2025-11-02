@@ -15,9 +15,14 @@ export default function Countdown() {
   }, []);
 
   function calculateTimeLeft() {
-    const christmas = new Date(Date.UTC(new Date().getFullYear(), 11, 25));
-    const countdownStart = new Date(Date.UTC(new Date().getFullYear(), 10, 2));
+    // Use local time instead of UTC
     const now = new Date();
+    
+    // Christmas Day - December 25th of current year, local time
+    const christmas = new Date(now.getFullYear(), 11, 25); // Month is 0-indexed (11 = December)
+    
+    // Countdown start - November 2nd of current year, local time
+    const countdownStart = new Date(now.getFullYear(), 10, 2); // Month is 0-indexed (10 = November)
     
     if (now < countdownStart) {
       const difference = countdownStart - now;
@@ -48,13 +53,15 @@ export default function Countdown() {
   };
 
   const getCurrentDay = () => {
-    const countdownStart = new Date(Date.UTC(new Date().getFullYear(), 10, 2));
     const now = new Date();
+    const countdownStart = new Date(now.getFullYear(), 10, 2); // November 2nd
     
     if (now < countdownStart) return 0;
     
     const timeDiff = now - countdownStart;
     const daysPassed = Math.floor(timeDiff / (1000 * 60 * 60 * 24));
+    
+    // From Nov 2 to Dec 25 is 53 days total
     return Math.min(daysPassed + 1, 53);
   };
 
